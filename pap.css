@@ -1,7 +1,7 @@
 #pictureBox
 {
 position: relative;
-bottom: 1380px;
+bottom: 1480px;
 left: 269px;
 border:2px solid;
 border-radius:25px;
@@ -112,7 +112,7 @@ bottom: 1600px;
 left: 1025px;
 border:2px solid;
 border-radius:25px;
-width:70px;
+width:40px;
 height:45px;
 padding:15px;
 background-color: #A74444;
@@ -166,7 +166,7 @@ box-shadow: 10px 10px 5px #C0C0C0;
 #infoBoxOne
 {
 position: relative;
-bottom: 1330px;
+bottom: 1430px;
 left: 369px;
 border:2px solid;
 border-radius:25px;
@@ -181,7 +181,7 @@ box-shadow: 10px 10px 5px #C0C0C0;
 #infoBoxTwo
 {
 position: relative;
-bottom: 1500px;
+bottom: 1600px;
 left: 469px;
 border:2px solid;
 border-radius:25px;
@@ -196,7 +196,7 @@ box-shadow: 10px 10px 5px #C0C0C0;
 #infoBoxThree
 {
 position: relative;
-bottom: 1600px;
+bottom: 1700px;
 left: 269px;
 border:2px solid;
 border-radius:25px;
@@ -227,7 +227,7 @@ box-shadow: 10px 10px 5px #C0C0C0;
 #shoeBoxed
 {
 position: relative;
-bottom: 1700px;
+bottom: 1800px;
 left: 220px;
 border:2px solid;
 border-radius:10px;
@@ -242,7 +242,7 @@ box-shadow: 10px 10px 5px black;
 #ae1
 {
 position: relative;
-bottom: 1800px;
+bottom: 1900px;
 left: 520px;
 border:2px solid;
 border-radius:10px;
@@ -257,7 +257,7 @@ box-shadow: 10px 10px 5px black;
 #surePayrole
 {
 position: relative;
-bottom: 2050px;
+bottom: 2150px;
 left: 920px;
 border:2px solid;
 border-radius:10px;
