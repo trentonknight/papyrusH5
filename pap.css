@@ -1,4 +1,18 @@
-
+#pictureBox
+{
+position: relative;
+bottom: 1200px;
+left: 269px;
+border:2px solid;
+border-radius:25px;
+width:900px;
+height:289px;
+padding:15px;
+background-color: #3D3D3D;
+-moz-box-shadow: 10px 10px 5px #848585; /* Firefox 3.6 and earlier */
+-moz-border-radius:25px; /* Firefox 3.6 and earlier */
+box-shadow: 10px 10px 5px #C0C0C0;
+}
 #oneLightBrBX
 {
 position: relative;
@@ -14,32 +28,19 @@ background-color:#3D3D3D;
 -moz-border-radius:25px; /* Firefox 3.6 and earlier */
 box-shadow: 10px 10px 5px #C0C0C0;
 }
-#pictureBox
-{
-position: relative;
-bottom: 1160px;
-left: 269px;
-border:2px solid;
-border-radius:25px;
-width:900px;
-height:289px;
-padding:15px;
-background-color: #3D3D3D;
--moz-box-shadow: 10px 10px 5px #848585; /* Firefox 3.6 and earlier */
--moz-border-radius:25px; /* Firefox 3.6 and earlier */
-box-shadow: 10px 10px 5px #C0C0C0;
-}
+
+
 #linkBXOne
 {
 position: relative;
-bottom: 960px;
+bottom: 1300px;
 left: 700px;
 border:2px solid;
 border-radius:25px;
 width:85px;
-height:40px;
+height:50px;
 padding:10px;
-background-color:LightGrey;
+background-color: #3D3D3D;
 -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
 -moz-border-radius:25px; /* Firefox 3.6 and earlier */
 box-shadow: 10px 10px 5px #C0C0C0;
@@ -47,14 +48,14 @@ box-shadow: 10px 10px 5px #C0C0C0;
 #linkBXTwo
 {
 position: relative;
-bottom: 1090px;
+bottom: 1400px;
 left: 800px;
 border:2px solid;
 border-radius:25px;
 width:75px;
-height:40px;
+height:50px;
 padding:10px;
-background-color:LightGrey;
+background-color:#A74444;
 -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
 -moz-border-radius:25px; /* Firefox 3.6 and earlier */
 box-shadow: 10px 10px 5px #C0C0C0;
@@ -62,14 +63,14 @@ box-shadow: 10px 10px 5px #C0C0C0;
 #linkBXThree
 {
 position: relative;
-bottom: 1090px;
-left: 900px;
+bottom: 1370px;
+left: 750px;
 border:2px solid;
 border-radius:25px;
-width:110px;
-height:40px;
+width:100px;
+height:50px;
 padding:15px;
-background-color:LightGrey;
+background-color: #3D3D3D;
 -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
 -moz-border-radius:25px; /* Firefox 3.6 and earlier */
 box-shadow: 10px 10px 5px #C0C0C0;
@@ -77,14 +78,14 @@ box-shadow: 10px 10px 5px #C0C0C0;
 #linkBXFour
 {
 position: relative;
-bottom: 1240px;
-left: 1030px;
+bottom: 1440px;
+left: 860px;
 border:2px solid;
 border-radius:25px;
-width:75px;
-height:40px;
+width:50px;
+height:50px;
 padding:15px;
-background-color:LightGrey;
+background-color:#A74444;
 -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
 -moz-border-radius:25px; /* Firefox 3.6 and earlier */
 box-shadow: 10px 10px 5px #C0C0C0;
@@ -92,17 +93,17 @@ box-shadow: 10px 10px 5px #C0C0C0;
 #linkBXFive
 {
 position: relative;
-bottom: 1200px;
-left: 1080px;
+bottom: 1580px;
+left: 925px;
 border:2px solid;
 border-radius:25px;
-width:75px;
-height:40px;
+width:70px;
+height:45px;
 padding:15px;
-background-color:LightGrey;
+background-color: #3D3D3D;
 -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
 -moz-border-radius:25px; /* Firefox 3.6 and earlier */
-box-shadow: 10px 10px 5px #C0C0C0;
+box-shadow: 10px 10px 5px black;
 }
 #oneLightBrBX2
 {
@@ -154,7 +155,7 @@ bottom: 1130px;
 left: 369px;
 border:2px solid;
 border-radius:25px;
-width:900px;
+width:1000px;
 height:289px;
 padding:15px;
 background-color: #3D3D3D;
@@ -192,6 +193,81 @@ background-color: #3D3D3D;
 -moz-border-radius:25px; /* Firefox 3.6 and earlier */
 box-shadow: 10px 10px 5px black;
 }
+#infoBoxFour
+{
+position: relative;
+bottom: 1500px;
+left: 350px;
+border:2px solid;
+border-radius:25px;
+width:900px;
+height:289px;
+padding:15px;
+background-color: #A74444;
+-moz-box-shadow: 10px 10px 5px #848585; /* Firefox 3.6 and earlier */
+-moz-border-radius:25px; /* Firefox 3.6 and earlier */
+box-shadow: 10px 10px 5px #C0C0C0;
+}
+#shoeBoxed
+{
+position: relative;
+bottom: 1500px;
+left: 220px;
+border:2px solid;
+border-radius:10px;
+width:280px;
+height:110px;
+padding:20px;
+background-color: white;
+-moz-box-shadow: 10px 10px 5px #848585; /* Firefox 3.6 and earlier */
+-moz-border-radius:25px; /* Firefox 3.6 and earlier */
+box-shadow: 10px 10px 5px black;
+}
+#ae1
+{
+position: relative;
+bottom: 1600px;
+left: 520px;
+border:2px solid;
+border-radius:10px;
+width:400px;
+height:130px;
+padding:20px;
+background-color: LightGrey;
+-moz-box-shadow: 10px 10px 5px #848585; /* Firefox 3.6 and earlier */
+-moz-border-radius:25px; /* Firefox 3.6 and earlier */
+box-shadow: 10px 10px 5px black;
+}
+#certOne
+{
+position: relative;
+bottom: 950px;
+left: 269px;
+border:2px solid;
+border-radius:25px;
+width:106px;
+height:69px;
+padding:10px;
+background-color:white;
+-moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
+-moz-border-radius:25px; /* Firefox 3.6 and earlier */
+box-shadow: 10px 10px 5px #C0C0C0;
+}
+#chamber
+{
+position: relative;
+bottom: 1010px;
+left: 389px;
+border:2px solid;
+border-radius:25px;
+width:150px;
+height:69px;
+padding:10px;
+background-color:white;
+-moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
+-moz-border-radius:25px; /* Firefox 3.6 and earlier */
+box-shadow: 10px 10px 5px #C0C0C0;
+}
 h1
 {
 color: Black;
@@ -201,19 +277,19 @@ text-shadow: 5px 5px 5px DimGray;
 }
 h2
 {
-color: Black;
+color: white;
 text-align: left;
-font-family: 'Meie Script', cursive;
-text-shadow: 5px 5px 5px DimGray;
+font-family: 'Raleway', cursive;
+text-shadow: 5px 5px 5px black;
 font-size:large;
 }
 h3
 {
 color: white;
 text-align: left;
-font-family: 'Meie Script', cursive;
-text-shadow: 5px 5px 5px DimGray;
-font-size:large;
+font-family: 'Raleway', cursive;
+text-shadow: 5px 5px 5px black;
+font-size:medium;
 }
 h4
 {
