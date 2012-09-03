@@ -7,9 +7,9 @@ left: 269px;
 border:2px solid;
 border-radius:25px;
 width:400px;
-height:80px;
+height:110px;
 padding:10px;
-background-color:#A9A9A9;
+background-color:#3D3D3D;
 -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
 -moz-border-radius:25px; /* Firefox 3.6 and earlier */
 box-shadow: 10px 10px 5px #C0C0C0;
@@ -147,6 +147,51 @@ background-color:white;
 -moz-border-radius:25px; /* Firefox 3.6 and earlier */
 box-shadow: 10px 10px 5px #C0C0C0;
 }
+#infoBoxOne
+{
+position: relative;
+bottom: 1130px;
+left: 369px;
+border:2px solid;
+border-radius:25px;
+width:900px;
+height:289px;
+padding:15px;
+background-color: #3D3D3D;
+-moz-box-shadow: 10px 10px 5px #848585; /* Firefox 3.6 and earlier */
+-moz-border-radius:25px; /* Firefox 3.6 and earlier */
+box-shadow: 10px 10px 5px #C0C0C0;
+}
+#infoBoxTwo
+{
+position: relative;
+bottom: 1300px;
+left: 469px;
+border:2px solid;
+border-radius:25px;
+width:900px;
+height:289px;
+padding:15px;
+background-color: #A74444;
+-moz-box-shadow: 10px 10px 5px #848585; /* Firefox 3.6 and earlier */
+-moz-border-radius:25px; /* Firefox 3.6 and earlier */
+box-shadow: 10px 10px 5px #C0C0C0;
+}
+#infoBoxThree
+{
+position: relative;
+bottom: 1400px;
+left: 269px;
+border:2px solid;
+border-radius:25px;
+width:900px;
+height:289px;
+padding:15px;
+background-color: #3D3D3D;
+-moz-box-shadow: 10px 10px 5px #848585; /* Firefox 3.6 and earlier */
+-moz-border-radius:25px; /* Firefox 3.6 and earlier */
+box-shadow: 10px 10px 5px black;
+}
 h1
 {
 color: Black;
@@ -161,4 +206,20 @@ text-align: left;
 font-family: 'Meie Script', cursive;
 text-shadow: 5px 5px 5px DimGray;
 font-size:large;
+}
+h3
+{
+color: white;
+text-align: left;
+font-family: 'Meie Script', cursive;
+text-shadow: 5px 5px 5px DimGray;
+font-size:large;
+}
+h4
+{
+color: white;
+text-align: left;
+font-family: 'Meie Script', cursive;
+text-shadow: 5px 5px 5px DimGray;
+font-size:xx-large;
 }
